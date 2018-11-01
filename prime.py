@@ -1,5 +1,5 @@
 '''
-   Code to find prime numbers
+   Code to find prime numbers -- attempt to fix
 '''
 
 # Prime number finder with a logic bug
